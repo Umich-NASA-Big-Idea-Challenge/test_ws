@@ -5,4 +5,4 @@
 [submodule "src/cargo_beep"]
 	path = src/cargo_beep
 	url = https://github.com/Umich-NASA-Big-Idea-Challenge/cargo_beep.git
-	branch = sim-dev
+	branch = main
